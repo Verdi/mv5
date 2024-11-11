@@ -10,7 +10,7 @@ import SwiftUI
 import OpenImmersive
 
 @main
-struct Verdi5App: App {
+struct MV5App: App {
     @Environment(\.openWindow) private var openWindow
     @Environment(\.dismissImmersiveSpace) private var dismissImmersiveSpace
     
