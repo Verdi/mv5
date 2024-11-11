@@ -67,3 +67,6 @@ fastlane/test_output
 # Video files
 *.mov
 *.mp4
+
+# The actual file I want to ignore
+/mv5/MV5App/Media/zine.mov
