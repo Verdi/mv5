@@ -21,7 +21,7 @@ struct MainMenu: View {
                 .frame(width: 255)
                 .padding()
             
-            Text("Updated")
+            Text("Updated Again!")
                 .font(.largeTitle)
             
             Text("A free and open source immersive video player for the Apple Vision Pro.")
