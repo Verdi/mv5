@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A2BF9A602C9DEBCD000975F2"
-               BuildableName = "OpenImmersiveApp.app"
-               BlueprintName = "OpenImmersiveApp"
-               ReferencedContainer = "container:OpenImmersive.xcodeproj">
+               BuildableName = "MV5App.app"
+               BlueprintName = "MV5App"
+               ReferencedContainer = "container:MV5.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -38,7 +38,7 @@
                BlueprintIdentifier = "A2BF9A752C9DEBCE000975F2"
                BuildableName = "AcuteTests.xctest"
                BlueprintName = "AcuteTests"
-               ReferencedContainer = "container:OpenImmersive.xcodeproj">
+               ReferencedContainer = "container:MV5.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A2BF9A602C9DEBCD000975F2"
-            BuildableName = "OpenImmersiveApp.app"
-            BlueprintName = "OpenImmersiveApp"
-            ReferencedContainer = "container:OpenImmersive.xcodeproj">
+            BuildableName = "MV5App.app"
+            BlueprintName = "MV5App"
+            ReferencedContainer = "container:MV5.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A2BF9A602C9DEBCD000975F2"
-            BuildableName = "OpenImmersiveApp.app"
-            BlueprintName = "OpenImmersiveApp"
-            ReferencedContainer = "container:OpenImmersive.xcodeproj">
+            BuildableName = "MV5App.app"
+            BlueprintName = "MV5App"
+            ReferencedContainer = "container:MV5.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
