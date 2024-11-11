@@ -1,15 +1,16 @@
 //
-//  OpenImmersiveApp.swift
-//  OpenImmersiveApp
+//  MV5App.swift
+//  MV5App
 //
-//  Created by Anthony Maës (Acute Immersive) on 9/20/24.
+//  Created by Michael Verdi on 11/10/24.
+//  Based on Openimmersive by Anthony Maës
 //
 
 import SwiftUI
 import OpenImmersive
 
 @main
-struct OpenImmersiveApp: App {
+struct Verdi5App: App {
     @Environment(\.openWindow) private var openWindow
     @Environment(\.dismissImmersiveSpace) private var dismissImmersiveSpace
     
