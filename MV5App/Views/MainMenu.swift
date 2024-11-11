@@ -15,7 +15,7 @@ struct MainMenu: View {
     
     var body: some View {
         VStack {
-            Image("openimmersive-logo")
+            Image("mv-logo")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 255)
